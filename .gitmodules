@@ -1,0 +1,3 @@
+[submodule "CS-EBIO-Backend"]
+	path = CS-EBIO-Backend
+	url = https://github.com/jasonlubrano/CS-EBIO-Backend.git
